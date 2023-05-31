@@ -15,6 +15,7 @@
 
 ## Features
 - Showing available movies and seances
+- Initial dates of seances are created on the nearest weekend according to the local date on running computer 
 - Buying ticket for chosen seance
 - Printing screening room and choosing seat
 - Adding movies and seances and removing movies
