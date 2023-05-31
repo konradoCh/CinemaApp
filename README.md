@@ -3,8 +3,9 @@
 
 
 ## General Information
-- Project show skills of core java
+- Project show skills of core Java
 - User select number to do some actions. It is possible to select a movie by number or by title.
+- Application runs until user enter 0.
 
 
 
