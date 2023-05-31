@@ -22,9 +22,13 @@
 
 ## Screenshots
  - Main Menu
+ ![screen1](https://github.com/konradoCh/CinemaApp/assets/127674711/aa2231a9-4429-41db-966d-fea3eef96d19)
+ 
  - Purchasing process
- - Admin Menu
+![screen2](https://github.com/konradoCh/CinemaApp/assets/127674711/7e1ca90f-3a8a-4c4d-9a14-f27c9a893f44)
 
+ - Admin Menu
+![screen3](https://github.com/konradoCh/CinemaApp/assets/127674711/891a8abb-ded9-4274-8bf5-b9398235cb15)
 
 ## Setup
  * Download this project
